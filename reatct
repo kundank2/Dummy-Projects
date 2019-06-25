@@ -1,0 +1,2 @@
+import React, { Components } from 'react';
+import { View, Text, Images } from 'react-native';
