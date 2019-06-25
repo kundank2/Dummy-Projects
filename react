@@ -4,3 +4,4 @@ import { View, Text, Images } from 'react-native';
 let height = Dimension.get('Screen').height;
 let width = Dimension.get('Screen').width;
 
+
